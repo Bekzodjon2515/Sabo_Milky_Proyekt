@@ -200,7 +200,8 @@ body {
 
 .footer-number__title {
     font-weight: 600;
-    
-   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-size: 30px;
 }
